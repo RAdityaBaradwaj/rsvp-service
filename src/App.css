@@ -1,0 +1,9 @@
+/* src/App.css */
+.card {
+    background-color: #f1f8e9;
+    padding: 1rem;
+    border-radius: 15px;
+    margin-top: 1rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  }
+  
